@@ -11,6 +11,7 @@ https://medium.com/@mehmetmertzgn/comparison-of-lp-wan-technologies-lora-vs-sigf
 
 ## Project Setup
 4x Heltec WiFi LoRa 32 (V2):We bought 4 pieces of this module to serve as our LoRa modules. They also have ESP32 chips in it, this means that we can also connect these devices to the internet if possible to act as gateways to communicate with blockchain servers.
+
 1x Raspberry Pi 3 Module B: We used Raspberry Pi Module B as our main gateway. This serves as a blockchain communicator between edge nodes and the blockchain 
 servers.
 
