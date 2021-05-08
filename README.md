@@ -1,4 +1,4 @@
-# Offline SmartGrid transactions using LP-WAN technology.
+# Offline blockchain SmartGrid transactions using LP-WAN technology.
 
 This project aims to evaluate the effectiveness of running blockchain operation using distributed LP-WAN devices, particularly with LoRa.
 
